@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=zed-shawn)](https://github.com/anuraghazra/github-readme-stats)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=zed-shawn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zed-shawn/zed-shawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
