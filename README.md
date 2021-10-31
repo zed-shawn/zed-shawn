@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋!
+
+[ezgif-3-8a457486f8e6](https://user-images.githubusercontent.com/66055543/139598961-5b0d732c-f6c0-4633-b96f-6709ae2755f7.gif)
+
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=zed-shawn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
